@@ -1,10 +1,9 @@
-# anti-cheat-tool
+# anti-cheat-tool for Unity3D
 A script for protection from memory hackers like GameCIH, Game Guardian, Cheat Engine and so on....
 
 
 *****************************************************************
-This is a simple Anti cheating system for protection from memory hacking tools! 
-Its free!!! 
+This is a simple Anti cheating system for protection from memory hacking tools for Unity3D Game engine...
 
 Just download the attached unitypackage file and import it on your project!
 Now you can access the api's via the ACT class....
