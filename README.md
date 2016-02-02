@@ -19,23 +19,22 @@ You can combine them for more complicated use of course! :)
 
 Methods in this tool..... (by string, I refer to encrypted string)
 
-**Encryption Tools.**
+* Encryption Tools.
+  * ACT.Encrypt(int inputInt) : Takes an Int input, returns it as a string! Random!
+  * ACT.Decrypt(int inputString): Takes an String input, returns as the original Int.
 
-1.ACT.Encrypt(int inputInt) : Takes an Int input, returns it as a string! Random!
-2.ACT.Decrypt(int inputString): Takes an String input, returns as the original Int.
 
-
-**Arithmetic Tools​**
-
-1.ACT.Add(int a, int b): Takes two ints and add them. Then returns the value as a encrypted string!
-2.ACT.Add(string a, string b): Takes two strings and add them. Then returns the value as a encrypted string!
-3.ACT.Subtract(int a, int b): Takes two ints and Subtract them. Then returns the value as a encrypted string!
-4.ACT.Subtract(string a, string b): Takes two strings and Subtract them. Then returns the value as a encrypted string!
-5.ACT.Multiply(int a, int b): Takes two ints and multiply them. Then returns the value as a encrypted string!
-6.ACT.Multiply(string a, string b): Takes two strings and multiply them. Then returns the value as a encrypted string!
-7.ACT.Divide(string a, string b): Takes two ints and divide them. Then returns the value as a encrypted string!
-8.ACT.Divide(string a, string b): Takes two strings and divide them. Then returns the value as a encrypted string!
+* Arithmetic Tools​
+  * ACT.Add(int a, int b): Takes two ints and add them. Then returns the value as a encrypted string!
+  * ACT.Add(string a, string b): Takes two strings and add them. Then returns the value as a encrypted string!
+  * ACT.Subtract(int a, int b): Takes two ints and Subtract them. Then returns the value as a encrypted string!
+  * ACT.Subtract(string a, string b): Takes two strings and Subtract them. Then returns the value as a encrypted string!
+  * ACT.Multiply(int a, int b): Takes two ints and multiply them. Then returns the value as a encrypted string!
+  * ACT.Multiply(string a, string b): Takes two strings and multiply them. Then returns the value as a encrypted string!
+  * ACT.Divide(string a, string b): Takes two ints and divide them. Then returns the value as a encrypted string!
+  * ACT.Divide(string a, string b): Takes two strings and divide them. Then returns the value as a encrypted string!
 
 
 
-The whole script is documented, so you won't become confused when using them! :)
+
+**The whole script is documented, so you won't become confused when using them! :)**
